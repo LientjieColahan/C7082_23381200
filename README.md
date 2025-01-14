@@ -20,3 +20,7 @@ Kaggle provided the database of imagery for this project (Kuno-Williams, 2022), 
 The dual availability of tabular and image datasets facilitated an investigation into two machine learning approaches for mushroom classification. The methodology encompassed feature selection and hyperparameter optimisation for tabular data analysis, while the image classification pipeline incorporated data augmentation techniques, callback implementations, and transfer learning testing various pre-trained architectures to achieve optimal model performance.
 
 ## Results
+xxx
+
+## Discussion
+xxx
