@@ -17,10 +17,10 @@ The UC Irvine Machine Learning Repository provided the tabular dataset for this 
 Kaggle provided the database of imagery for this project (Kuno-Williams, 2022), these can be accessed via https://www.kaggle.com/datasets/derekkunowilliams/mushrooms/data. It contains 8781 jpg files of mushrooms representing 261 species gathered from Google.
 
 ## Model
-The dual availability of tabular and image datasets facilitated an investigation into two machine learning approaches for mushroom classification. The methodology encompassed feature selection and hyperparameter optimisation for tabular data analysis, while the image classification pipeline incorporated data augmentation techniques, callback implementations, and transfer learning testing various pre-trained architectures to achieve optimal model performance.
+The dual availability of tabular and image datasets facilitated an investigation into two machine learning approaches for mushroom classification. The methodology encompassed feature selection and hyperparameter optimisation for tabular data analysis, while the image classification pipeline incorporated data augmentation techniques, callback implementations, and transfer learning on pre-trained architectures to achieve optimal model performance.
 
 ## Results
-xxx
+Ensemble learning showed up as a highly effective method for predictions based on tabular data with a very high accurcay. The Deep learning methods were significantly less accurate but improvements in accuracy by using transfer learning showed the potential for the application of deep learning methods in mushroom identification alongside ensemble learning.
 
 ## Discussion
-xxx
+Based on the exploration in this assignemnt there is clear potential for machine learing to play a role in sthe screening process of mushrooms for their edibilty. These tools could be combined to help efficiency in the commercialisation of wild mushrooms.
